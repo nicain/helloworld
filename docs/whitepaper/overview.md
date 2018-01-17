@@ -1,0 +1,3 @@
+## TECHNICAL WHITE PAPER: OVERVIEW
+
+The Allen Brain Observatory presents  a  comprehensivephysiological surveyof  neural  activity  in  the  visual cortex during sensory stimulation and behavior.This project systematically measured visual responses from neuronsacross corticalareasand layers utilizingtransgenic Cre lines to driveexpression ofgenetically encodedfluorescent calcium sensors (GCaMP6).This dataset provides a resource for exploring the progressive coding of sensory stimulithrough the cortical visual pathway at both the single cell and population level.
