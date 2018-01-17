@@ -56,9 +56,10 @@ sphinx_gallery_conf = {
       'binder': {
       'org': 'nicain',
       'repo': 'helloworld',
-      'url': 'mybinder.org',  # URL serving binders (e.g. mybinder.org)
+      'url': 'http://mybinder.org',  # URL serving binders (e.g. mybinder.org)
       'branch': 'full',  # Can also be a tag or commit hash
-      'dependencies': ['/docs']
+      'dependencies': ['/home/nicholasc/tmp/whitepaper/docs/requirements.txt'],
+      'filepath': 'docs/auto_examples'
      }}
 
 # Add any paths that contain templates here, relative to this directory.
