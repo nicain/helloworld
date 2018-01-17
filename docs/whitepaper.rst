@@ -38,6 +38,11 @@ Allen Brain Observatory
 
   .. container:: sphx-glr-footer
 
+	.. figure:: https://mybinder.org/badge.svg
+		:target: http://mybinder.org/v2/gh/nicain/helloworld/full?filepath=docs/auto_examples/helloworld.ipynb
+		:width: 150 px
+		:figclass: binder-badge
+
 
 	.. container:: sphx-glr-download
 

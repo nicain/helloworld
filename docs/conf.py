@@ -58,7 +58,7 @@ sphinx_gallery_conf = {
       'repo': 'helloworld',
       'url': 'http://mybinder.org',  # URL serving binders (e.g. mybinder.org)
       'branch': 'full',  # Can also be a tag or commit hash
-      'dependencies': ['/home/nicholasc/tmp/whitepaper/docs/requirements.txt'],
+      'dependencies': ['/home/nicholasc/tmp/whitepaper/binder/requirements.txt'],
       'filepath': 'docs/auto_examples'
      }}
 
