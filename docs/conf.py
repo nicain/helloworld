@@ -52,7 +52,14 @@ sphinx_gallery_conf = {
     # path where to save gallery generated examples
     'gallery_dirs'  : 'auto_examples',
     'filename_pattern': '/',
-    'backreferences_dir': False}
+    'backreferences_dir': False,
+      'binder': {
+      'org': 'nicain',
+      'repo': 'helloworld',
+      'url': 'mybinder.org',  # URL serving binders (e.g. mybinder.org)
+      'branch': 'full',  # Can also be a tag or commit hash
+      'dependencies': ['/docs']
+     }}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['aibs_sphinx/templates']

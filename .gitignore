@@ -2,7 +2,8 @@
 .tested_requirements.txt
 
 # Sphinx gallery temp dir
-docs/auto_examples/
+docs/auto_examples/*
+!docs/auto_examples/*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
